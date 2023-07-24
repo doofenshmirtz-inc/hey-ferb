@@ -5,4 +5,4 @@ hey rmeno12, i know what we're gonna do today
 ![Doofenshmirtz_Incorporated](https://github.com/doofenshmirtz-inc/hey-ferb/assets/20458990/6fc2442d-d243-4b87-bed8-7d12a27d43d4)
 
 
-<sup><sub>Copyright (c) Miley Cyrus 2019. No rights reserved. </sub></sup>
+  <sup>Copyright © Miley Cyrus 2013. No rights reserved.</sup>
